@@ -1,2 +1,0 @@
-C:\Users\kieuv\source\repos\GetAreaValue\GetAreaValue\obj\Debug\GetAreaValue.csproj.AssemblyReference.cache
-C:\Users\kieuv\source\repos\GetAreaValue\GetAreaValue\obj\Debug\GetAreaValue.csproj.CoreCompileInputs.cache
